@@ -1,13 +1,13 @@
-body {
-  background-color: white;
-}
+
 
 h1 {
-
+ text-align: center;
 }
 
-p {
-
+.paragraph {
+ text-align: center;
+ background-color: lightblue;
+ font-size: 30px;
 }
 
 a {
@@ -16,9 +16,10 @@ a {
 
 .title {
   padding: 30px 80px;
+  color: 
 }
 
 .navigation{
   padding: 10px 80px;
-  background-color: black;
+  background-color: rgb(0, 153, 255);
 }
