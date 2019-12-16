@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+  
+  
+  <!-- Citations -->
+
+
+</head>
+<body>
+  <div class="title">
+    <h2>Interesting Facts</h2>
+  </div>
+  <div class="navigation">
+    <a href="index.html">Human Computers</a>
+    <a href="">Interesting Facts</a>
+    <a href="">Quiz</a>
+  </div>
+  <div>
+    <p>Sources used</p>
+      
+      <p>How might you format this?</p>
+  </div>
+
+
+  <script src="script.js"></script>
+  
+  
+</body>
+</html>

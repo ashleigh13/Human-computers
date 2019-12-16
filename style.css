@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: rgb(160, 255, 231);
 }
 
 h1 {
@@ -11,7 +11,7 @@ p {
 }
 
 a {
-  color: white;
+  color: rgb(63, 81, 109);
 }
 
 .title {
@@ -20,5 +20,5 @@ a {
 
 .navigation{
   padding: 10px 80px;
-  background-color: black;
+  background-color: rgb(0, 153, 255);
 }
